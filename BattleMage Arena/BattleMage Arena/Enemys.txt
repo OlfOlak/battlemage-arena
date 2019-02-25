@@ -1,0 +1,5 @@
+Skeletor,20,2,2,1,3,enemySkeletor.jpg,
+ArmourSkeleton,30,1,5,1,2,armourSkeletor.jpg,
+AssaultSkeleton,50,2,7,2,7,assaultSkeletor.jpg,
+Knight,100,6,2,4,2,
+MagicSkeleton,130,8,12,4,9,

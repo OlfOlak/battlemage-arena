@@ -1,0 +1,15 @@
+Battlemage Arena
+Gra polegaj¹ca na pokonywaniu przeciwników w systemie turowym. Gracz ma do wyboru jedn¹ z czterech akcji do 
+wykonania, którymi musi odpowiednio "¿¹glowaæ", aby pokonaæ oponenta. Ka¿da z akcji ma swój plus i minus:
+ -ATAK MIECZEM zadaje obra¿enia ale mo¿e zostaæ sparowany przez przeciwnika, ponadto nie resetuje pancerza przeciwnika.
+ -KULA OGNIA zadaje obra¿enia bez wzglêdu na obronê przeciwnika kosztem many i równie¿ nie resetuje pancerza przeciwnika.
+ -PAROWANIE MIECZEM mo¿e spowodowaæ utratê ¿ycia ale redukuje pancerz przeciwnika do stanu pocz¹tkowego.
+ -MAGICZNA TARCZA kosztem many poch³ania atak przeciwnika i redukuje jego atak do stanu pocz¹tkowego.
+
+Klasy:
+-Battlemage - klasa gracza
+-Enemy - klasa przeciwnika
+-PlaySequence - klasa sekwencji rozgrywki (walki z danym przeciwnikiem)
+planuje siê modyfikacjê klas w celu dodania aspektu dziedziczenia i polimorfizmu.
+
+W dalszym rozwijaniu projektu, rozgrywka mo¿e ulec zmianie w stosunku do powy¿szego opisu.
